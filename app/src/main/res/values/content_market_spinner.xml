@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_market">
+        <item>Select Market</item>
+        <item>Mumbai</item>
+        <item>Kalyan</item>
+        <item>Dadar</item>
+        <item>Pune</item>
+    </string-array>
+</resources>
